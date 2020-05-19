@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-topbara-dev-124452-authRole",
+            "UnauthRoleArn": "arn:aws:iam::552300014898:role/amplify-topbara-dev-124452-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::552300014898:role/amplify-topbara-dev-124452-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-topbara-dev-124452-deployment",
+            "UnauthRoleName": "amplify-topbara-dev-124452-unauthRole",
+            "StackName": "amplify-topbara-dev-124452",
+            "StackId": "arn:aws:cloudformation:us-east-2:552300014898:stack/amplify-topbara-dev-124452/76a2eeb0-99f8-11ea-ada5-02402ec64522",
+            "AmplifyAppId": "dntmpapf6jc76"
+        }
+    }
+}
